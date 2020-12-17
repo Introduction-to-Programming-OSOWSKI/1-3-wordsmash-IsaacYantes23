@@ -1,3 +1,4 @@
-def wordsmash(wordOne, wordtwo):
-    return wordOne + wordtwo
+def wordSmash(wordOne, wordTwo):
+    return wordOne + wordTwo
 
+print (wordSmash("cat", "dog"))
